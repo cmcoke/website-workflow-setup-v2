@@ -1,0 +1,28 @@
+{
+    "name": "website-workflow-setup-v2",
+    "version": "1.0.0",
+    "description": "Project Starter Kit",
+    "main": "index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "autoprefixer": "^9.4.8",
+        "browser-sync": "^2.26.3",
+        "del": "^3.0.0",
+        "gulp": "^4.0.0",
+        "gulp-clean-css": "4.0.0",
+        "gulp-concat": "^2.6.1",
+        "gulp-imagemin": "^5.0.3",
+        "gulp-plumber": "^1.2.1",
+        "gulp-postcss": "^8.0.0",
+        "gulp-rename": "^1.4.0",
+        "gulp-sass": "^4.0.2",
+        "gulp-sourcemaps": "^2.6.4",
+        "gulp-uglify": "^3.0.1",
+        "rucksack-css": "^1.0.2"
+    },
+    "dependencies": {}
+}

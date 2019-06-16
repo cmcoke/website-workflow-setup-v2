@@ -1,0 +1,6 @@
+// px to rem converter
+$base-font-size: 16px;
+
+@function rem ($target, $context: $base-font-size) {
+  @return ($target / $context) * 1rem;
+}
